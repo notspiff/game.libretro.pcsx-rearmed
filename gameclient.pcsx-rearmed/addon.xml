@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="gameclient.pcsx-rearmed"
+		name="PCSX Rearmed"
+		version="19.0.1"
+		provider-name="Libretro">
+	<requires>
+		<import addon="xbmc.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.gameclient"
+			library_android=""
+			library_linux="pcsx_rearmed_libretro.so"
+			library_osx=""
+			library_windx=""
+			library_wingl="">
+		<platforms>PlayStation</platforms>
+		<extensions>bin|cue|img|mdf|pbp|toc|cbn|m3u</extensions>
+		<allowvfs>false</allowvfs>
+		<blockextract>false</blockextract>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">PCSX ReARMed r19</summary>
+		<description>PCSX ReARMed is another PCSX fork based on the PCSX-Reloaded project, which itself contains code from PCSX, PCSX-df and PCSX-Revolution. This version features a MIPS->ARM recompiler, NEON GTE code and more performance improvements.
+
+Supported files: .bin, .cue, .img, .mdf, .pbp, .toc, .cbn, .m3u
+
+Source: https://github.com/libretro/pcsx_rearmed</description>
+		<platform>linux</platform>
+		<nofanart>true</nofanart>
+		
+	</extension>
+</addon>
