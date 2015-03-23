@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="gameclient.pcsx-rearmed"
+<addon id="game.libretro.pcsx-rearmed"
 		name="PCSX Rearmed"
 		version="19.0.1"
 		provider-name="Libretro">
 	<requires>
-		<import addon="xbmc.libretro" version="1.0.0"/>
+		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
-	<extension point="xbmc.gameclient"
-			library_android=""
-			library_linux="pcsx_rearmed_libretro.so"
-			library_osx=""
-			library_windx=""
-			library_wingl="">
+	<extension point="kodi.gameclient"
+                   library_android="libgame.libretro.pcsx-rearmed.so"
+                   library_linux="game.libretro.pcsx-rearmed.so"
+                   library_osx="game.libretro.pcsx-rearmed.dylib"
+                   library_windx="game.libretro.pcsx-rearmed.dll"
+                   library_wingl="game.libretro.pcsx-rearmed.dll">
 		<platforms>PlayStation</platforms>
 		<extensions>bin|cue|img|mdf|pbp|toc|cbn|m3u</extensions>
 		<allowvfs>false</allowvfs>
@@ -24,8 +24,6 @@
 Supported files: .bin, .cue, .img, .mdf, .pbp, .toc, .cbn, .m3u
 
 Source: https://github.com/libretro/pcsx_rearmed</description>
-		<platform>linux</platform>
-		<nofanart>true</nofanart>
-		
+		<platform>all</platform>
 	</extension>
 </addon>
