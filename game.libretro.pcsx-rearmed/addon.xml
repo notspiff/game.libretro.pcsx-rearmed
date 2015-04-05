@@ -16,6 +16,7 @@
 		<extensions>bin|cue|img|mdf|pbp|toc|cbn|m3u</extensions>
 		<allowvfs>false</allowvfs>
 		<blockextract>false</blockextract>
+		<supports_no_game>false</supports_no_game>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">PCSX ReARMed r19</summary>
