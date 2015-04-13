@@ -14,8 +14,7 @@
                    library_wingl="game.libretro.pcsx-rearmed.dll">
 		<platforms>PlayStation</platforms>
 		<extensions>bin|cue|img|mdf|pbp|toc|cbn|m3u</extensions>
-		<allowvfs>false</allowvfs>
-		<blockextract>false</blockextract>
+		<supports_vfs>false</supports_vfs>
 		<supports_no_game>false</supports_no_game>
 	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -24,7 +23,8 @@
 
 Supported files: .bin, .cue, .img, .mdf, .pbp, .toc, .cbn, .m3u
 
-Source: https://github.com/libretro/pcsx_rearmed</description>
+License: GPLv2</description>
 		<platform>all</platform>
+		<nofanart>true</nofanart>
 	</extension>
 </addon>
