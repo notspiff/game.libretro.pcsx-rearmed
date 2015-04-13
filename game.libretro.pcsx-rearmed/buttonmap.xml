@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttonmap>
+	<device id="game.controller.psx" type="joypad">
+		<feature name="cross" mapto="a"/>
+		<feature name="circle" mapto="b"/>
+		<feature name="square" mapto="x"/>
+		<feature name="triangle" mapto="y"/>
+		<feature name="start" mapto="start"/>
+		<feature name="select" mapto="select"/>
+		<feature name="up" mapto="up"/>
+		<feature name="down" mapto="down"/>
+		<feature name="right" mapto="right"/>
+		<feature name="left" mapto="left"/>
+		<feature name="l1" mapto="l"/>
+		<feature name="r1" mapto="r"/>
+		<feature name="l2" mapto="l2"/>
+		<feature name="r2" mapto="r2"/>
+	</device>
+</buttonmap>
