@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap>
-	<device id="game.controller.psx" type="joypad">
+	<device id="game.controller.ps" type="joypad">
 		<feature name="cross" mapto="a"/>
 		<feature name="circle" mapto="b"/>
 		<feature name="square" mapto="x"/>
