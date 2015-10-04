@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap>
-	<controller id="game.controller.ps" type="joypad">
-		<feature name="cross" mapto="a"/>
-		<feature name="circle" mapto="b"/>
-		<feature name="square" mapto="x"/>
-		<feature name="triangle" mapto="y"/>
+	<controller id="game.controller.ps" type="analog">
+		<feature name="cross" mapto="b"/>
+		<feature name="circle" mapto="a"/>
+		<feature name="square" mapto="y"/>
+		<feature name="triangle" mapto="x"/>
 		<feature name="start" mapto="start"/>
 		<feature name="select" mapto="select"/>
 		<feature name="up" mapto="up"/>
