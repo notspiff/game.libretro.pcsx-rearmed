@@ -11,9 +11,11 @@
 		<feature name="down" mapto="down"/>
 		<feature name="right" mapto="right"/>
 		<feature name="left" mapto="left"/>
-		<feature name="l1" mapto="l"/>
-		<feature name="r1" mapto="r"/>
-		<feature name="l2" mapto="l2"/>
-		<feature name="r2" mapto="r2"/>
+		<feature name="leftbumper" mapto="l"/>
+		<feature name="rightbumper" mapto="r"/>
+		<feature name="lefttrigger" mapto="l2"/>
+		<feature name="righttrigger" mapto="r2"/>
+		<feature name="l3" mapto="l3"/>
+		<feature name="r3" mapto="r3"/>
 	</controller>
 </buttonmap>
