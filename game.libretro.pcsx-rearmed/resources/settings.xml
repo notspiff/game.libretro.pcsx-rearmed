@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="labelenum" id="pcsx_rearmed_frameskip" values="0|1|2|3" default="0"/>
+		<setting label="30002" type="labelenum" id="pcsx_rearmed_region" values="Auto|NTSC|PAL" default="Auto"/>
+		<setting label="30003" type="labelenum" id="pcsx_rearmed_pad1type" values="standard|analog|negcon" default="standard"/>
+		<setting label="30004" type="labelenum" id="pcsx_rearmed_pad2type" values="standard|analog|negcon" default="standard"/>
+		<setting label="30005" type="labelenum" id="pcsx_rearmed_drc" values="enabled|disabled" default="enabled"/>
+		<setting label="30006" type="labelenum" id="pcsx_rearmed_neon_interlace_enable" values="enabled|disabled" default="disabled"/>
+		<setting label="30007" type="labelenum" id="pcsx_rearmed_neon_enhancement_enable" values="enabled|disabled" default="disabled"/>
+		<setting label="30008" type="labelenum" id="pcsx_rearmed_neon_enhancement_no_main" values="enabled|disabled" default="disabled"/>
+		<setting label="30009" type="labelenum" id="pcsx_rearmed_duping_enable" values="on|off" default="on"/>
+		<setting label="30010" type="labelenum" id="pcsx_rearmed_spu_reverb" values="on|off" default="on"/>
+		<setting label="30011" type="labelenum" id="pcsx_rearmed_spu_interpolation" values="simple|gaussian|cubic|off" default="simple"/>
+		<setting label="30012" type="labelenum" id="pcsx_rearmed_pe2_fix" values="enabled|disabled" default="disabled"/>
+		<setting label="30013" type="labelenum" id="pcsx_rearmed_inuyasha_fix" values="enabled|disabled" default="disabled"/>
+	</category>
+</settings>
