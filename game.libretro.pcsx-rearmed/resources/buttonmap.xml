@@ -17,5 +17,7 @@
 		<feature name="righttrigger" mapto="r2"/>
 		<feature name="l3" mapto="l3"/>
 		<feature name="r3" mapto="r3"/>
+		<feature name="strong" maptop="strong"/>
+		<feature name="weak" maptop="weak"/>
 	</controller>
 </buttonmap>
