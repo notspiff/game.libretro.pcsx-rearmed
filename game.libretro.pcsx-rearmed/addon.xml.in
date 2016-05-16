@@ -8,11 +8,7 @@
 		<import addon="game.controller.ps" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="libgame.libretro.pcsx-rearmed.so"
-                   library_linux="game.libretro.pcsx-rearmed.so"
-                   library_osx="game.libretro.pcsx-rearmed.dylib"
-                   library_windx="game.libretro.pcsx-rearmed.dll"
-                   library_wingl="game.libretro.pcsx-rearmed.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>PlayStation</platforms>
 		<extensions>bin|cue|img|mdf|pbp|toc|cbn|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
@@ -25,7 +21,7 @@
 Supported files: .bin, .cue, .img, .mdf, .pbp, .toc, .cbn, .m3u
 
 License: GPLv2</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 		<nofanart>true</nofanart>
 	</extension>
 </addon>
