@@ -1,14 +1,14 @@
-# XBMC Media Center language file
-# Addon Name: @name@
-# Addon id: @id@
-# Addon Provider: @authors@
+# game.libretro.pcsx-rearmed language file
+# Addon Name: game.libretro.pcsx-rearmed
+# Addon id: game.libretro.pcsx-rearmed
+# Addon Provider: libretro
 msgid ""
 msgstr ""
-"Project-Id-Version: Libretro Clients\n"
+"Project-Id-Version: game.libretro.pcsx-rearmed\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
-"POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2014-05-30 17:00+8\n"
-"Last-Translator: XBMC Translation Team\n"
+"POT-Creation-Date: 2016-12-06 21:53i\n"
+"PO-Revision-Date: 2016-12-06 21:53i\n"
+"Last-Translator: Kodi Translation Team\n"
 "Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,53 +21,69 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Frameskip"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Region"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Pad 1 Type"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Pad 2 Type"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Dynamic recompiler"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Enable interlacing mode(s)"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Enhanced resolution (slow)"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Enhanced resolution speed hack"
-msgstr ""
-
-msgctxt "#30009"
 msgid "Frame duping"
 msgstr ""
 
+msgctxt "#30002"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30003"
+msgid "InuYasha Sengoku Battle Fix"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Multitap 1"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Multitap 2"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Pad 1 Type"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Pad 2 Type"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Pad 3 Type"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Pad 4 Type"
+msgstr ""
+
 msgctxt "#30010"
-msgid "Sound: Reverb"
+msgid "Pad 5 Type"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Sound: Interpolation"
+msgid "Pad 6 Type"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgid "Pad 7 Type"
 msgstr ""
 
 msgctxt "#30013"
-msgid "InuYasha Sengoku Battle Fix"
+msgid "Pad 8 Type"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Sound: Interpolation"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Sound: Reverb"
 msgstr ""
