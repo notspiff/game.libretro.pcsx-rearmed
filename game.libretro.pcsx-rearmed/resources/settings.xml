@@ -16,7 +16,8 @@
 		<setting label="30013" type="select" id="pcsx_rearmed_pad8type" values="default|none|standard|analog|negcon" default="default"/>
 		<setting label="30014" type="select" id="pcsx_rearmed_pe2_fix" values="disabled|enabled" default="disabled"/>
 		<setting label="30015" type="select" id="pcsx_rearmed_region" values="Auto|NTSC|PAL" default="Auto"/>
-		<setting label="30016" type="select" id="pcsx_rearmed_spu_interpolation" values="simple|gaussian|cubic|off" default="simple"/>
-		<setting label="30017" type="select" id="pcsx_rearmed_spu_reverb" values="on|off" default="on"/>
+		<setting label="30016" type="select" id="pcsx_rearmed_show_bios_bootlogo" values="on|off" default="on"/>
+		<setting label="30017" type="select" id="pcsx_rearmed_spu_interpolation" values="simple|gaussian|cubic|off" default="simple"/>
+		<setting label="30018" type="select" id="pcsx_rearmed_spu_reverb" values="on|off" default="on"/>
 	</category>
 </settings>
