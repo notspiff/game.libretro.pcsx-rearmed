@@ -17,7 +17,7 @@
 		<feature name="righttrigger" mapto="r2"/>
 		<feature name="l3" mapto="l3"/>
 		<feature name="r3" mapto="r3"/>
-		<feature name="strongmotor" maptop="strong"/>
-		<feature name="weakmotor" maptop="weak"/>
+		<feature name="strongmotor" mapto="strong"/>
+		<feature name="weakmotor" mapto="weak"/>
 	</controller>
 </buttonmap>
