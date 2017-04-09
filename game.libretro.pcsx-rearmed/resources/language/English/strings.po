@@ -81,7 +81,7 @@ msgid "Region"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Show Bios Bootlogo"
+msgid "Show Bios Bootlogo(Breaks some games)"
 msgstr ""
 
 msgctxt "#30017"
@@ -90,4 +90,8 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Sound: Reverb"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Enable Vibration"
 msgstr ""
