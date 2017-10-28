@@ -1,4 +1,6 @@
 # game.libretro.pcsx-rearmed
+[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-gba?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-gba)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-gba?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-gba)
 
 PCSX-rearmed game add-on for Kodi
 
